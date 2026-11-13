@@ -35,7 +35,7 @@ No new samples were generated. All input data are public in GEO. The datasets we
 
 The notebooks were run on Google Colab with Google Drive mounted. They expect a working folder `MyDrive/mmp13_oa/`; change `BASE` in the first configuration cell to use another location. Run them in order (01, 02, 03): the validation notebook reads the discovery table, and the revision notebook reads both. GEO series are downloaded with GEOparse on first use.
 
-Package versions used for the published results are listed in `requirements.txt`.
+Package versions used for the published results are listed in `requirements.txt`. The reproduction gate in `03_revision_analyses.ipynb` compares the rerun with the published 1,510 / 407 robust partners; the rerun used for the revision gave 1,513 / 407 (a three-gene difference that was not traced further).
 
 ## Licence
 

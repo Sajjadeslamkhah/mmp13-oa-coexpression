@@ -575,5 +575,4 @@ def cluster_mmp13(ad, gene="MMP13", n_boot=1000, seed=0):
     return pd.DataFrame(rows).sort_values("mean", ascending=False)
 
 
-# --------------------------------------------------------- PRISMA GEO search
 
