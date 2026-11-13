@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the article."
+title: "MMP13 co-expression in osteoarthritic joint tissues: code and results"
+authors:
+  - family-names: "Aydoğdu"
+    given-names: "Elif Defne"
+  - family-names: "Eslamkhah"
+    given-names: "Sajjad"
+  - family-names: "Gülmez"
+    given-names: "Hakan"
+  - family-names: "Aslan"
+    given-names: "Elif Sibel"
+  - family-names: "Şahin"
+    given-names: "Hilal"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Beyond the case–control signal: MMP13 is embedded in a reproducible hypertrophic and fibro-stromal co-expression programme within osteoarthritic joint tissues"
+  authors:
+    - family-names: "Aydoğdu"
+      given-names: "Elif Defne"
+    - family-names: "Eslamkhah"
+      given-names: "Sajjad"
+    - family-names: "Gülmez"
+      given-names: "Hakan"
+    - family-names: "Aslan"
+      given-names: "Elif Sibel"
+    - family-names: "Şahin"
+      given-names: "Hilal"
+  journal: "Current Issues in Molecular Biology"
+  status: submitted

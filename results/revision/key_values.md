@@ -1,0 +1,53 @@
+# Key values printed by notebooks/03_revision_analyses.ipynb
+
+File names in this folder follow an earlier draft numbering; see results/README.md.
+
+- **seed_MMP13_n_robust**: 1920
+- **seed_OLFML2B_n_robust**: 2464
+- **seed_THY1_n_robust**: 2493
+- **seed_POSTN_n_robust**: 2268
+- **seed_FAP_n_robust**: 2709
+- **seed_MMP3_n_robust**: 6
+- **random_median_n_robust**: 1627.5
+- **MMP13_percentile_n_robust**: 63.0
+- **MMP13_percentile_GSE114007_pos_frac**: 82.8
+- **MMP13_percentile_GSE82107_pos_frac**: 99.0
+- **MMP13_degree_rank**: 366 of 5000
+- **MMP13_eigen_rank**: 80 of 5000
+- **rho_MMP13_fibroblast**: 0.41
+- **rho_MMP13_osteoblast**: 0.43 (datasets weighted separately; 0.42 when GSE117999 and GSE98918 are merged into one cohort, as reported in the manuscript)
+- **composition_adj_genome_r**: 0.743
+- **composition_adj_pos_kept**: 124/150
+- **composition_adj_neg_kept**: 26/150
+- **hyp_rho_bone**: 0.66 (95% CI 0.43 to 0.81; n = 40)
+- **hyp_rho_cartilage**: 0.67 (95% CI 0.47 to 0.81; n = 45)
+- **hyp_rho_meniscus**: 0.70 (95% CI 0.19 to 0.91; n = 12)
+- **hyp_rho_synovium**: 0.27 (95% CI -0.21 to 0.65; n = 20)
+- **hyp_rho_all**: 0.65 (95% CI 0.53 to 0.75; n = 117)
+- **hyp_rho_all_noSPP1ALPL**: 0.54
+- **hyp_rho_cartilage_noSPP1ALPL**: 0.63
+- **control_vs_OA_genome_r**: 0.121
+- **locked_pos_positive_in_controls_pct**: 76.7
+- **locked_neg_negative_in_controls_pct**: 56.7
+- **genes_differing_OA_vs_control_FDR05**: 41
+- **GSE114007_controls_locked_pos_positive_pct**: 51.4
+- **GSE82107_controls_locked_pos_positive_pct**: 79.3
+- **OA_age_median_range**: 64-73
+- **OA_age_overall_range**: 52-89
+- **sex_annotated_datasets**: 5
+- **age_sex_adjusted_coexpr**: {'genome_r': np.float64(0.969102439617946), 'pos_kept': np.int64(150), 'pos_total': 150, 'neg_kept': np.int64(149), 'neg_total': 150, 'n_tested': 18259, 'n_pos': 1450, 'n_neg': 477}
+- **GSE57218_g_without_adolescent_controls**: 0.64 (95% CI -0.55 to 1.83; controls n = 3)
+- **pooled_g_without_adolescent_controls**: {'g': 0.696, 'ci_low': -0.418, 'ci_high': 1.81, 'p': 0.169, 'tau2': 0.478, 'I2': 0.671, 'k': 6.0}
+- **CAMERA_sets_FDR05**: 2
+- **permutation_sets_FDR05**: 38
+- **CAMERA_FDR05_list**: Epithelial Mesenchymal Transition, Angiogenesis
+- **no169_pos_neg**: 1383 / 680
+- **no169_genome_r**: 0.982
+- **no169_robust_partners_kept**: 1680 of 1920
+- **pooled_g_without_GSE169077**: 0.41 (95% CI -0.21 to 1.03; P = 0.14; I2 = 28%)
+- **fieller_pos_neg**: 1424 / 373
+- **sc_primary**: 1597 cells, 9 clusters; top-MMP13 cluster mean 0.47 vs next 0.23
+- **sc_sensitivity**: 1597 cells, 9 clusters, ARI = 1.00; top-MMP13 cluster 5 markers: IBSP, COL10A1, FGFBP2, RNU6-2, GSN, CHAD, BHLHE41, MEF2C, ACAN, WWP2
+- **sc_input_was_counts**: True
+- **sc_params_primary**: {'min_genes': 200, 'min_cells': 3, 'target_sum': 10000.0, 'n_hvg': 2000, 'flavor': 'seurat', 'n_pcs': 50, 'n_neighbors': 15, 'resolution': 0.6, 'mito_max': None, 'doublets': False, 'harmony_key': None, 'seed': 7, 'input_was_counts': True}
+- **sc_params_sensitivity**: {'min_genes': 200, 'min_cells': 3, 'target_sum': 10000.0, 'n_hvg': 2000, 'flavor': 'seurat', 'n_pcs': 50, 'n_neighbors': 15, 'resolution': 0.6, 'mito_max': 20, 'doublets': True, 'harmony_key': 'sample', 'seed': 7, 'input_was_counts': True}

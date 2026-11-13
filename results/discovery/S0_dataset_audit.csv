@@ -1,0 +1,9 @@
+dataset,tissue,cohort,n_control,n_OA,n_unassigned,genes,note,status
+GSE57218,Cartilage,GSE57218,7.0,33.0,33.0,25149.0,,used
+GSE117999,Cartilage,APM-TKA knee cohort,12.0,12.0,0.0,34729.0,,used
+GSE169077,Cartilage,GSE169077,5.0,6.0,0.0,13237.0,,used
+GSE51588,Subchondral bone,GSE51588,10.0,40.0,0.0,21754.0,,used
+GSE55235,Synovium,GSE55235,10.0,10.0,10.0,13237.0,,used
+GSE55457,Synovium,GSE55457,10.0,10.0,13.0,13237.0,,used
+GSE12021,Synovium,,,,,,,excluded in config
+GSE98918,Meniscus,APM-TKA knee cohort,12.0,12.0,0.0,34729.0,,used

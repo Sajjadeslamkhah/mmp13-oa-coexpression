@@ -1,0 +1,12 @@
+,0
+chondrocyte,"COL2A1, ACAN, SOX9, COMP, CHAD, CILP, FMOD, CNMD"
+fibroblast,"DCN, LUM, PDGFRA, FBLN1, MFAP5"
+lining_fibroblast,"PRG4, HAS1, CD55, CLIC5, HTRA4"
+osteoblast,"SP7, DMP1, PHEX, SOST"
+osteoclast,"CALCR, OSCAR, DCSTAMP"
+macrophage,"CD68, CD163, CSF1R, C1QA, C1QB, MARCO, MS4A7"
+T_cell,"CD3D, CD3E, CD2, TRAC"
+B_plasma,"MS4A1, CD79A, MZB1, JCHAIN, IGHM"
+endothelial,"PECAM1, VWF, CDH5, CLDN5, EMCN"
+pericyte_SMC,"ACTA2, MYH11, RGS5, NOTCH3, CNN1"
+adipocyte,"ADIPOQ, PLIN1, LEP"

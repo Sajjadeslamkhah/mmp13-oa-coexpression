@@ -1,0 +1,11 @@
+{
+ "acc": "GSE104782",
+ "cells": 1597,
+ "source": "dense tables (1)",
+ "cluster_rho": 0.35,
+ "cluster_p": 0.35581957250178897,
+ "cell_rho": 0.28770967862373387,
+ "cell_p": 8.173147262939975e-32,
+ "n_pos_genes": 49,
+ "n_neg_genes": 44
+}

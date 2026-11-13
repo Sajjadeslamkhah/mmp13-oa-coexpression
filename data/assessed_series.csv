@@ -1,0 +1,13 @@
+accession,title,platform,tissue,n_OA,n_control,stage,decision,reason
+GSE57218,not available,GPL6947,Cartilage,33,7,curated_assessment (not search-derived),included,Discovery set. OA = lesioned cartilage (one per patient); the 33 macroscopically preserved samples were used only for the paired within-patient analysis.
+GSE117999,not available,GPL20844,Cartilage,12,12,curated_assessment (not search-derived),included,Discovery set. Same patients as GSE98918 (shared patient IDs/ages/BMI); the two were merged into one cohort (APM-TKA knee cohort).
+GSE98918,not available,GPL20844,Meniscus,12,12,curated_assessment (not search-derived),included,Discovery set. Merged with GSE117999 as one cohort.
+GSE169077,not available,GPL96,Cartilage,6,5,curated_assessment (not search-derived),included,Discovery set.
+GSE51588,not available,GPL13497,Subchondral bone,40,10,curated_assessment (not search-derived),included,Discovery set.
+GSE55235,not available,GPL96,Synovium,10,10,curated_assessment (not search-derived),included,Discovery set. The 10 rheumatoid arthritis samples were removed.
+GSE55457,not available,GPL96,Synovium,10,10,curated_assessment (not search-derived),included,Discovery set. The 13 rheumatoid arthritis samples were removed.
+GSE12021,not available,not available,Synovium,not available,not available,curated_assessment (not search-derived),excluded,Duplicate arrays: its OA arrays repeat those of GSE55457 (within-OA gene–MMP13 correlations identical for 95% of genes). Excluded in the analysis configuration.
+GSE114007,not available,RNA-seq (two sequencing platforms; GPL IDs not recorded),Knee cartilage,20,18,curated_assessment (pre-specified validation),included,Held-out validation set. A design guard required group sizes to match the published design (20 OA / 18 normal).
+GSE82107,not available,Microarray (GPL ID not recorded),Synovium,10,7,curated_assessment (pre-specified validation),included,Held-out validation set.
+GSE89408,not available,RNA-seq (GPL ID not recorded),Synovium,not available,not available,curated_assessment (pre-specified validation),excluded,Unusable: no supplementary expression table could be matched unambiguously to the GEO sample annotations.
+GSE104782,not available,scRNA-seq (GPL ID not recorded),OA knee cartilage,1597 cells (donor count not recorded),not applicable,curated_assessment (single-cell localisation),included,Single-cell localisation only. 1597 cells retained after filtering cells with fewer than 200 detected genes; the original study reports 1464 cells.
