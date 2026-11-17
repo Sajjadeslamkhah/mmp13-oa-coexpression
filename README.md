@@ -26,7 +26,7 @@ No new samples were generated. All input data are public in GEO. The datasets we
 | `scripts/make_figures.py` | Draws Figure 8 (with panel e) and Figures S5–S7 from `results/revision` |
 | `scripts/make_supplementary_tables.py` | Builds `supplementary/Supplementary_Tables_S5-S12.xlsx` |
 | `data/assessed_series.csv` | Every GEO series assessed for inclusion, with the decision and reason |
-| `results/discovery/` | Dataset audit and duplicate-array check |
+| `results/discovery/` | Discovery tables (`tables/`: S0–S4 dataset audit, duplicate-array check, donor age, age-adjusted models and age-controlled co-expression; T1–T9 effect sizes, meta-analysis, AUCs, consensus co-expression for all genes, programme coupling, GSEA, enrichment, DGIdb records, paired analysis) and Figures 1–7 and S1–S3 with source data (`figures/`) |
 | `results/validation/` | Locked signature (`V0_locked_signature.json`), validation tables and figures with source data |
 | `results/revision/` | Gene-level and summary outputs of the revision analyses (see `results/README.md`) |
 | `supplementary/` | Supplementary Figures S5–S7 (PNG and Word file with legends), Supplementary Tables S5–S12 (Excel), Figure 8 with panel e |
