@@ -4,7 +4,7 @@ Code, results and supplementary material for the manuscript
 
 > Aydoğdu, E.D.; Eslamkhah, S.; Gülmez, H.; Aslan, E.S.; Şahin, H. *Beyond the case–control signal: MMP13 is embedded in a reproducible hypertrophic and fibro-stromal co-expression programme within osteoarthritic joint tissues.* Under review at *Current Issues in Molecular Biology* (MDPI).
 
-The repository is private until publication. After acceptance it will be made public and archived with a DOI.
+This repository is the data source cited in the manuscript's Data Availability Statement; the version referred to there is release `v1.0.0`.
 
 ## What the study does
 
